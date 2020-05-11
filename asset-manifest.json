@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/static/js/main.ffcc8fa0.chunk.js",
-    "main.js.map": "/static/js/main.ffcc8fa0.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.868c6d53.js",
-    "runtime-main.js.map": "/static/js/runtime-main.868c6d53.js.map",
-    "static/js/2.594282df.chunk.js": "/static/js/2.594282df.chunk.js",
-    "static/js/2.594282df.chunk.js.map": "/static/js/2.594282df.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.0d6cba6a2bb94f2ddb56085236df29e6.js": "/precache-manifest.0d6cba6a2bb94f2ddb56085236df29e6.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.594282df.chunk.js.LICENSE.txt": "/static/js/2.594282df.chunk.js.LICENSE.txt",
-    "static/media/github-background.svg": "/static/media/github-background.0b819d63.svg",
-    "static/media/logo.svg": "/static/media/logo.04f6798f.svg"
+    "main.js": "/explorer-repos-github-react/static/js/main.ffcc8fa0.chunk.js",
+    "main.js.map": "/explorer-repos-github-react/static/js/main.ffcc8fa0.chunk.js.map",
+    "runtime-main.js": "/explorer-repos-github-react/static/js/runtime-main.74f24e4a.js",
+    "runtime-main.js.map": "/explorer-repos-github-react/static/js/runtime-main.74f24e4a.js.map",
+    "static/js/2.db8c428b.chunk.js": "/explorer-repos-github-react/static/js/2.db8c428b.chunk.js",
+    "static/js/2.db8c428b.chunk.js.map": "/explorer-repos-github-react/static/js/2.db8c428b.chunk.js.map",
+    "index.html": "/explorer-repos-github-react/index.html",
+    "precache-manifest.3c55143182f9d756d1709d3155c6dccf.js": "/explorer-repos-github-react/precache-manifest.3c55143182f9d756d1709d3155c6dccf.js",
+    "service-worker.js": "/explorer-repos-github-react/service-worker.js",
+    "static/js/2.db8c428b.chunk.js.LICENSE.txt": "/explorer-repos-github-react/static/js/2.db8c428b.chunk.js.LICENSE.txt",
+    "static/media/github-background.svg": "/explorer-repos-github-react/static/media/github-background.0b819d63.svg",
+    "static/media/logo.svg": "/explorer-repos-github-react/static/media/logo.04f6798f.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.868c6d53.js",
-    "static/js/2.594282df.chunk.js",
+    "static/js/runtime-main.74f24e4a.js",
+    "static/js/2.db8c428b.chunk.js",
     "static/js/main.ffcc8fa0.chunk.js"
   ]
 }
