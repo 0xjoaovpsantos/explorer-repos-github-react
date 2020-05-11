@@ -29,9 +29,10 @@ Através dessa aplicação conseguimos:
 - Verificar informações como estrelas, seguidores, issues dos repositórios
 - Acessar diretamente as issues dos repositórios
 
-## ⚙️ Tech:
+## ⚙️ Techs:
 
-- **React**
+- React
+- TypeScript
 
 ## ⛏ Ferramentas:
 
