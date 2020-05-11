@@ -6,7 +6,7 @@ import Routes from './routes';
 
 const App: React.FC = () => (
   <>
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Routes />
     </BrowserRouter>
     <GlobalStyle />
