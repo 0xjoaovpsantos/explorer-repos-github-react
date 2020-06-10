@@ -1,15 +1,36 @@
-<h1 align="center">
-  Explore repositórios no Github
-</h1>
-<h2 align="center">
-Para acessar:
-<a href="https://joaovictorpsantos.github.io/explorer-repos-github-react/">https://joaovictorpsantos.github.io/explorer-repos-github-react/</a><br/><br/>
+# Explore repositórios no Github
 
+> Aplicação para buscar user/repository no Github, para acessar <a href="https://joaovictorpsantos.github.io/explorer-repos-github-react/">clique aqui</a>.
 
+<a href="https://github.com/joaovictorpsantos">
+<img alt="Autor" src="https://img.shields.io/badge/autor-JoãoVictorPereiraSantos-7159c1?style=flat-square">
+</a>
+
+<a href="#">
+<img alt="Linguagens" src="https://img.shields.io/github/languages/count/joaovictorpsantos/explorer-repos-github-react?color=7159c1&style=flat-square">
+</a>
+
+<a href="https://github.com/joaovictorpsantos/explorer-repos-github-react/stargazers">
+<img alt="Stars" src="https://img.shields.io/github/stars/joaovictorpsantos/explorer-repos-github-react?color=7159c1&style=flat-square">
+</a>
+
+<a href="https://github.com/joaovictorpsantos/explorer-repos-github-react/network/members">
+<img alt="Forks" src="https://img.shields.io/github/forks/joaovictorpsantos/explorer-repos-github-react?color=7159c1&style=flat-square">
+</a>
+
+<a href="#">
+<img alt="Tamanho do código em bytes" src="https://img.shields.io/github/languages/code-size/joaovictorpsantos/explorer-repos-github-react?color=7159c1&style=flat-square">
+</a>
+
+<a href="https://github.com/joaovictorpsantos/explorer-repos-github-react/commits/master">
+<img alt="Commits" src="https://img.shields.io/github/last-commit/joaovictorpsantos/explorer-repos-github-react?color=7159c1&style=flat-square">
+</a>
+
+<br/><br/>
+
+<p align="center">
 <img src="assets_readme/exemplo_uso.gif" >
-
-
-</h2>
+</p>
 
 <blockquote align="center">
   Esse projeto é open-source, contribua você também :D
