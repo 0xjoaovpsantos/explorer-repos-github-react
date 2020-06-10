@@ -3,27 +3,27 @@
 > Aplicação para buscar user/repository no Github, para acessar <a href="https://joaovictorpsantos.github.io/explorer-repos-github-react/">clique aqui</a>.
 
 <a href="https://github.com/joaovictorpsantos">
-<img alt="Autor" src="https://img.shields.io/badge/autor-JoãoVictorPereiraSantos-7159c1?style=flat-square">
+<img alt="Autor" src="https://img.shields.io/badge/autor-JoãoVictorPereiraSantos-000000?style=flat-square">
 </a>
 
 <a href="#">
-<img alt="Linguagens" src="https://img.shields.io/github/languages/count/joaovictorpsantos/explorer-repos-github-react?color=7159c1&style=flat-square">
+<img alt="Linguagens" src="https://img.shields.io/github/languages/count/joaovictorpsantos/explorer-repos-github-react?color=000000&style=flat-square">
 </a>
 
 <a href="https://github.com/joaovictorpsantos/explorer-repos-github-react/stargazers">
-<img alt="Stars" src="https://img.shields.io/github/stars/joaovictorpsantos/explorer-repos-github-react?color=7159c1&style=flat-square">
+<img alt="Stars" src="https://img.shields.io/github/stars/joaovictorpsantos/explorer-repos-github-react?color=000000&style=flat-square">
 </a>
 
 <a href="https://github.com/joaovictorpsantos/explorer-repos-github-react/network/members">
-<img alt="Forks" src="https://img.shields.io/github/forks/joaovictorpsantos/explorer-repos-github-react?color=7159c1&style=flat-square">
+<img alt="Forks" src="https://img.shields.io/github/forks/joaovictorpsantos/explorer-repos-github-react?color=000000&style=flat-square">
 </a>
 
 <a href="#">
-<img alt="Tamanho do código em bytes" src="https://img.shields.io/github/languages/code-size/joaovictorpsantos/explorer-repos-github-react?color=7159c1&style=flat-square">
+<img alt="Tamanho do código em bytes" src="https://img.shields.io/github/languages/code-size/joaovictorpsantos/explorer-repos-github-react?color=000000&style=flat-square">
 </a>
 
 <a href="https://github.com/joaovictorpsantos/explorer-repos-github-react/commits/master">
-<img alt="Commits" src="https://img.shields.io/github/last-commit/joaovictorpsantos/explorer-repos-github-react?color=7159c1&style=flat-square">
+<img alt="Commits" src="https://img.shields.io/github/last-commit/joaovictorpsantos/explorer-repos-github-react?color=000000&style=flat-square">
 </a>
 
 <br/><br/>
@@ -40,7 +40,7 @@
 
 ## 💡 Sobre o projeto:
 
-Este projeto feito com React visa fortalecer as bases e conceitos para poder construir uma aplicação utilizando o framework, aproveitando a API aberta do GitHub para poder fazer as requisições. Essa aplicação foi desenvolvida durante o bootcamp GoStack da Rocketseat.
+Este projeto feito com React visa fortalecer as bases e conceitos para poder construir uma aplicação utilizando o framework, aproveitando a API aberta do GitHub para poder fazer as requisições. Essa aplicação foi desenvolvida durante o bootcamp GoStack da Rocketseat, para acessar <a href="https://joaovictorpsantos.github.io/explorer-repos-github-react/">clique aqui</a>.
 
 ## 🔥 Funcionalidades:
 
